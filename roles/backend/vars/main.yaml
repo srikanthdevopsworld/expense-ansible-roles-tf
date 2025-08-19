@@ -1,5 +1,9 @@
-
+MYSQL_HOST: "mysql-{{ ENVIRONMENT }}.srikanthannam.space"
 MYSQL_USER: root
 MYSQL_PASSWORD: ExpenseApp1
 APP_LOCATION: /app
 COMPONENT: backend
+
+# username = "root"
+#   port     = "3306"
+#   password = "ExpenseApp1"
